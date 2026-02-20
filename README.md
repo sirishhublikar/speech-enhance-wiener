@@ -21,7 +21,7 @@ Key Features:
 * Objective performance analysis using SNR metrics
 
 The full technical report is available here:
-📄 [Final Report.pdf](./Final%20Report.pdf) 
+📄 [Report.pdf](./Report.pdf) 
 
 ## Algorithm Summary
 
